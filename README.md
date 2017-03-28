@@ -9,6 +9,7 @@
 
 ## Aide :
 
+- "npm install" pour installer jQuery
 - Utilisez jQuery !
 - http://api.jquery.com/appendto/
 - http://api.jquery.com/append/
